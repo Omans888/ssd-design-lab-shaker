@@ -1,4 +1,2 @@
-/docs/ (overall notes)
-/uml/ (UML diagrams)
-/reviews/ (checklists, evaluations)
-/adr/ (Architecture Decision Records)
+## v0.1 – Initial design docs
+## v0.2 – Added prerequisite check use case.
